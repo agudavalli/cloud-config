@@ -1,5 +1,5 @@
 my:
-      greeting: Hello World from the online config
+      greeting: Hello World!
       list:
         values: One, Two, Three, Four
 db:
